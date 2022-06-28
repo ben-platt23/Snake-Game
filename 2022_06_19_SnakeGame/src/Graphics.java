@@ -68,7 +68,7 @@ public class Graphics extends JPanel implements ActionListener{
 		
 	}
 	/*
-	 * Runs whenever the user presses a key or the timer resets (framerate)
+	 * Runs whenever the user presses a key or the timer resets (framerate) test
 	 */
 	@Override
 	public void actionPerformed(ActionEvent e) {
